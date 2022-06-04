@@ -2,6 +2,8 @@
 
 Its a NoPixel inspired/Styled Scoreboard working with QBCore.
 
+``This One Utilizes Steam Hex.``
+
 Go to 
 > connectqueue > server > sv_queue_config.lua</sup>
 
