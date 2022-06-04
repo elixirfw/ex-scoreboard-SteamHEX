@@ -1,3 +1,5 @@
+**ElixirFW ❤️**
+
 Its a NoPixel inspired/Styled Scoreboard working with QBCore.
 
 Go to 
@@ -10,7 +12,7 @@ Replace With This = ```Config.RequireSteam = true```
 Make Sure To Set this up in server.cfg
 ``set steam_webApiKey "B6DA371DC9E7DE3B34D23DE452029C4C"``
 
-Discord:- https://discord.gg/JMTPdBV ElixirFW ❤️
+Discord:- https://discord.gg/JMTPdBV
 
 # ex-scoreboard Preview
 
